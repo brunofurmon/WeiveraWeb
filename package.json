@@ -1,0 +1,31 @@
+{
+  "name": "weivera-web",
+  "version": "1.0.0",
+  "description": "A Review's Website",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/brunofurmon/WeiveraWeb.git"
+  },
+  "keywords": [
+    "git",
+    "web",
+    "weivera"
+  ],
+  "author": "Bruno Furtado Montes Oliveira",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/brunofurmon/WeiveraWeb/issues"
+  },
+  "homepage": "https://github.com/brunofurmon/WeiveraWeb#readme",
+  "devDependencies": {
+    "angular": "^1.5.8",
+    "gulp": "^3.9.1"
+  },
+  "dependencies": {
+    "angular": "^1.5.8"
+  }
+}
